@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "dependencies": {
     "com.unity.collab-proxy": {
@@ -381,3 +382,5 @@
     }
   }
 }
+=======
+>>>>>>> Stashed changes
